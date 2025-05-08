@@ -1,0 +1,28 @@
+
+Flask
+Flask-Migrate 
+Flask-Script
+SQLAlchemy 
+flask-sqlalchemy
+marshmallow 
+flask-marshmallow 
+marshmallow-sqlalchemy 
+# psycopg2 == 2.8.6
+psycopg2-binary
+# flask-bcrypt 
+Flask-Uploads 
+simplejson 
+requests
+Flask-Principal
+Flask-Security
+ics
+flask_jwt_extended 
+python-dotenv
+Flask-Cors
+Flask-RESTful
+Jinja2
+MarkupSafe
+itsdangerous
+pymongo
+# Add this to your requirements.txt
+gunicorn==21.2.0
